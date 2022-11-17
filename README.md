@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cojocarule
 - 👀 I’m interested in Programming  
-- 🌱 I’m currently learning: Web development, C#, Powershell, 
+- 🌱 I’m currently learning: Azure, C#, Powershell, Java
 - 💞️ I’m looking to collaborate on Programming projects
 - 📫 How to reach me cojocarule@gmail.com
 
